@@ -1,5 +1,5 @@
 # Avaliação de TAI - 02
-Escola: IFSC-câmpus Xanxerê 
+Escola: IFSC-câmpus Xanxerê                        
 Professor: Naira Alice Andrade de Arruda                           
 Turma: Informática 3                                
 Estudantes: Willian Bongiovanni                      
