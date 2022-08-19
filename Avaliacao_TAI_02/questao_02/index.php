@@ -23,7 +23,7 @@ $vogais = array(
 );
 $palavra = $_POST['palavra'];
 
-$novafrase = str_replace($vogais, '#', $palavra);
+$novafrase = str_replace($vogais, '?', $palavra);
 
 ?>
 <div class="card text-white bg-success mb-3" style=" max-width: 18rem; align-items: center;">
