@@ -11,6 +11,8 @@
  <body>
 
 <?php
+  /* Questão 2: Crie um programa em que em uma palavra digitada pelo usuário sejam substituídas todas as vogais por ? (ponto de interrogação).
+  */
 $vogais = array(
    "a","e","i","o","u",
     "A","E","I","O","U",
